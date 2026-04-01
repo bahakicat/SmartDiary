@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SmartJournal",
+  "description": "AI-powered emotional analysis journal with voice input and insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
